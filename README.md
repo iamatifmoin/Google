@@ -41,4 +41,4 @@ To run the application locally:
 
 ## Deployed Link
 
-[Google (Vercel)]()
+[Google (Vercel)](https://google-weld-six.vercel.app/)
